@@ -1,0 +1,37 @@
+
+h1{
+    color : #000000;
+    font-style : italic;
+    font-weight: bold;
+   font-size: xx-large;
+margin-left: 700px;
+}
+
+.ion{
+
+    background-color: #33ffd5 ;
+    font-style : inherit;
+    font-weight : bold;
+    font-size: x-large;
+}
+
+
+h3{
+    color: #ffffff;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+h2 {
+
+border: solid;
+border-color: plum;
+margin-right: 1400px;
+border-width: thick;
+  font-style : inherit;
+    font-weight : bold;
+    font-size: x-large;
+
+
+
+}
